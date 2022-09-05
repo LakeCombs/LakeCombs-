@@ -14,7 +14,7 @@ I am a full stack developer, My preferred tools are Nodejs, Golang, mongoDb, Rea
 
 *   🧠  I'm learning Golang, Django, Web3
 
-*   🤝  I'm open to collaborating on Open source project, personal project, part time project, remote project web, app backend
+*   🤝  I'm open to collaborating on Open source project, personal project, part time project, reote project web, app backend
 
 *   ⚡  I like a make best and watch anime in my free time... I am one click away<a href="https://www.twitter.com/adesolaolamile2" target="_blank" rel="noreferrer"><img
 
